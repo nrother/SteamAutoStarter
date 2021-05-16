@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("SteamAutoStarter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A small tool to automaticall launch steam, when your SteamLink tries to discover it")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Niklas Rother")]
 [assembly: AssemblyProduct("SteamAutoStarter")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 Niklas Rother")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
